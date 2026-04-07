@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+logs/
+model.joblib
+scaler.joblib
+.ipynb_checkpoints/
