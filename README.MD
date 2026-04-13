@@ -1,5 +1,5 @@
 # UCLA Admission Prediction using Neural Networks
-http://localhost:8501/
+
 ## Project Overview
 This project builds a neural network classification model to predict whether a student has a high chance of admission to UCLA. The original notebook code is modularized into reusable Python files and structured into a VS Code project. The target variable `Admit_Chance` is converted into binary form using a threshold of 0.8.
 
